@@ -1,0 +1,22 @@
+PhoneTracer
+
+Basit bir CLI aracı. Telefon numarasını normalize eder ve phonenumbers
+kütüphanesi ile temel bilgileri gösterir.
+
+Install
+pip install phonenumbers colorama
+
+Run
+python3 spectra_trace.py
+
+Input examples
++905321234567
+05321234567
+(0532) 123-45-67
+
+Output
+- E.164 format
+- Valid / possible check
+- Location
+- Carrier
+- Timezone
