@@ -1,2 +1,1 @@
-This program performs a phone number lookup 
-📞
+A small tool for analyzing phone numbers via terminal 📞
